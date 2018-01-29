@@ -1,0 +1,11 @@
+check if prize is already won today
+	
+
+if not, check if the current time is after the prize is available 
+
+if prize available, allow the wheel to land on the prize
+
+Make database entry 
+
+
+
